@@ -1,34 +1,26 @@
-<div align="center" style="font-family: 'Segoe UI', sans-serif">
-  <style>
-    .fade-in {
-      animation: fadeIn 2s;
-    }
-    @keyframes fadeIn {
-      from { opacity: 0; }
-      to { opacity: 1; }
-    }
-    .underline {
-      border-bottom: 1px solid #ddd;
-      padding-bottom: 3px;
-    }
-  </style>
 
-  <h1 class="fade-in underline">RESEARCHER</h1>
-  
-  <p style="margin-top: 20px; letter-spacing: 1px">
-  SYSTEMS · NETWORKS · SECURITY
-  </p>
+# 🔄 IQO - Overwatch 2 Flag Cleaner (Alpha)  
+![Blizzard Warden Anti-Cheat](https://bnetcmsus-a.akamaihd.net/cms/page_media/m1/M1S107UOS6GW1481651540794.GIF)  
 
-  <div style="
-    margin-top: 30px;
-    font-size: 0.9em;
-    color: #666;
-    font-style: italic;
-  ">
-    <p>// Last active: <span id="date"></span></p>
-  </div>
-</div>
+### ❓ **What It Fixes**  
+- False cheating bans by warden which flag you
+> ⚠️ **ALPHA NOTICE**: Early testing phase - use at your own risk  
 
-<script>
-  document.getElementById('date').innerText = new Date().toISOString().split('T')[0];
-</script>
+---
+
+### ⚙️ **How To Use**  
+1. Download from [Releases](#)  
+2. **Right-click → Run as Administrator**  
+3. Restart Computer
+
+```diff
+- WARNING: Requires admin rights to modify Warden data -
+```
+
+---
+
+### 💬 **Support**  
+[![Discord](https://img.shields.io/badge/DISCORD_SUPPORT-FF0000?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tEffSeYeES)  
+*(No official support - community help only)*  
+```
+
